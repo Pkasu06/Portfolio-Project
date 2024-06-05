@@ -1,7 +1,7 @@
 export const navItems = [
     "Home",
+    "About",
     "Skills",
     "Projects",
-    "Qualification",
-    "Experience",
+    "Contact",
 ]

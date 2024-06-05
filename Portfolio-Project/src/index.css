@@ -2,7 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-.header-container, .footer-container{
+.container {
     margin: auto;
     max-width: 90%;
+}
+
+.about {
+    margin: 0 auto;
+    width: 60%;
 }

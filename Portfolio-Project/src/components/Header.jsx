@@ -6,12 +6,12 @@ import { navItems } from '../constants'
 function Header() {
 
     // const navigate = useNavigate();
-    //TODO: Add them changer
+    //TODO: Add theme changer
 
     return (
         <>
             <header>
-                <nav className="header-container flex items-center justify-between flex-wrap p-6 border-b-[1px] border-white">
+                <nav className="container flex items-center justify-between flex-wrap p-6 border-b-[1px] border-white">
                     <div className="flex items-center flex-shrink-0 text-white mr-6">
                         {/* <Link to="/"> */}
                             <h3 className="text-3xl font-extrabold text-primary">Portfolio</h3>
@@ -32,6 +32,7 @@ function Header() {
                             ) : null
                             )}
                         </ul>
+                        
                     </div>
                 </nav>
             </header>
