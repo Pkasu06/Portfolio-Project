@@ -7,7 +7,7 @@
     max-width: 90%;
 }
 
-.about {
+.about, .skills {
     margin: 4rem auto;
     width: 60%;
 }
