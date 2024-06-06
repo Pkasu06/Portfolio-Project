@@ -14,7 +14,7 @@ function Projects() {
                         <div className="portfolio-item-content">
                             <h3 className="text-2xl font-semibold py-2 text-blue-800">Reservation system for the local plumber</h3>
                             <p>Reservation system for local plumber, where the user can select time slots and book an appointment. It also have admin dashboard where the use will be able to </p>
-                            <p className="pt-2 text-blue-800"><b>Technologies Used:</b> Next JS | Daisy UI | Java</p>
+                            <p className="pt-2 text-blue-800"><b>Technologies Used:</b> Next JS | Daisy UI | Java | Firebase</p>
                         </div>
                         <div className="portfolio-item-links pt-8">
                             <a href="https://github.com/rajakrishna/dsd-cohort-2024" target="_blank" className="text-white border hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mx-3 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Github</a>
