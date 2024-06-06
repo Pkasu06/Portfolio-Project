@@ -14,7 +14,10 @@ function Header() {
                 <nav className="container flex items-center justify-between flex-wrap p-6 border-b-[1px] border-white">
                     <div className="flex items-center flex-shrink-0 text-white mr-6">
                         {/* <Link to="/"> */}
-                            <h3 className="text-3xl font-extrabold text-primary">Portfolio</h3>
+                            <a href='/'>
+                                <h3 className="text-3xl font-extrabold text-primary">Portfolio</h3>
+                            </a>
+                            
                         {/* </Link> */}
                     </div>
                     <div className="block lg:hidden">
