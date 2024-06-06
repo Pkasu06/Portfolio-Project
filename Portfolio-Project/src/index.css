@@ -7,12 +7,16 @@
     max-width: 90%;
 }
 
-.about, .skills {
-    margin: 4rem auto;
+.about, .skills, .projects, .contact {
+    margin: 3rem auto;
     width: 60%;
 }
 
 .skills-list{
     list-style-type: disc;
     padding: 0 1rem;
+}
+
+.social-icons a {
+    padding: 0 0.5rem;
 }
