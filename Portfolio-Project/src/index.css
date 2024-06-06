@@ -8,6 +8,11 @@
 }
 
 .about {
-    margin: 0 auto;
+    margin: 4rem auto;
     width: 60%;
+}
+
+.skills-list{
+    list-style-type: disc;
+    padding: 0 1rem;
 }
