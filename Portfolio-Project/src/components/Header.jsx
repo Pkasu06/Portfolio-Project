@@ -27,7 +27,7 @@ function Header() {
                             {navItems.map((item) => 
                             navItems.length > 0 ? (
                                 <li key={item}>
-                                    <button className="inline-block px-6 py-2 duration-220 hover:bg-blue-100 rounded-full">{item}</button>
+                                    <a href={`#${item}`}><button className="inline-block px-6 py-2 duration-220 hover:bg-blue-100 rounded-full">{item}</button></a>
                                 </li>
                             ) : null
                             )}
